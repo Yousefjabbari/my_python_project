@@ -1,0 +1,13 @@
+# Ignore frontend
+my-next-project/
+node_modules/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# VSCode settings
+.vscode/

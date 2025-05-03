@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: my-python-backend
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python main.py
+
+S
